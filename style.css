@@ -93,4 +93,8 @@ form input.operator2{
 .copy{
     text-align: center;
     color: greenyellow;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
 }
