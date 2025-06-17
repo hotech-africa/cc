@@ -90,3 +90,7 @@ form input.operator2{
 .p i{
     color: #78568d;
 }
+.copy{
+    text-align: center;
+    color: greenyellow;
+}
